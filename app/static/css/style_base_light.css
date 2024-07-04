@@ -1,0 +1,24 @@
+:root{
+    --principal-light:rgb(222,222,222);
+    --second-light:rgb(241,241,241);
+}
+
+/*Estilos claros para elementos base*/
+html,body{
+    background-color: var(--principal-light);
+}
+
+/*Estilos para elementos por contenedores*/
+
+body {
+    background-color: #9b9c9c;
+    color: #333;
+}
+
+header {
+    background-color: #272727;
+}
+
+footer {
+    background-color: #272727;
+}
